@@ -1,0 +1,5 @@
+cython
+pysam
+matplotlib
+pandas
+pbcore
